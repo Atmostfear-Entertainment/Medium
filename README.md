@@ -1,0 +1,2 @@
+# Medium
+Contributors Bug Reporting
